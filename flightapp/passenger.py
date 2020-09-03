@@ -125,7 +125,7 @@ def check():
             else:
                 return jsonify({"message": "Wrong password"}), 400
         else:
-            return jsonify({"message": "Wrong username"}), 400
+            return jsonify({"message": "No such user"}), 400
 
 
 
