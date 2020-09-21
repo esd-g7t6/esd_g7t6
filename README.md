@@ -139,8 +139,8 @@ Team 6
 
 ## Authors
 * Bak Ing Sin @ingsin.bak.2017@sis.smu.edu.sg
-* Bui Phuong Thao @ptvvo.2018@sis.smu.edu.sg
-* Vo Pham Thao Vi @ptbui.2018@sis.smu.edu.sg  
+* Vo Pham Thao Vi @ptvvo.2018@sis.smu.edu.sg
+* Bui Phuong Thao @ptbui.2018@sis.smu.edu.sg  
 * Loh Xiao Bing @xbloh.2018@sis.smu.edu.sg  
 * Teo Jia Cheng @jcteo.2018@sis.smu.edu.sg
 
